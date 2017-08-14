@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecipePuppyTest</string>
+    <string name="hint">Search recipes</string>
+</resources>
