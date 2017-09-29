@@ -27,7 +27,7 @@ public class RecipeListActivity extends LifecycleActivity implements Observer<Re
     /** Current query*/
     private String mQuery;
 
-    /** Recycler view*/
+    /** Recycler view dfsaf*/
     private RecyclerView mRecyclerView;
 
     /** Recipes adapter*/
