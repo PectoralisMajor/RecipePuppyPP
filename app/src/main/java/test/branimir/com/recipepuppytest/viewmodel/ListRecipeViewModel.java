@@ -10,6 +10,7 @@ import test.branimir.com.recipepuppytest.service.repository.RecipeRepository;
 
 /**
  * Created by bconjar on 14/08/17.
+ * who is that?
  */
 
 public class ListRecipeViewModel extends ViewModel {
