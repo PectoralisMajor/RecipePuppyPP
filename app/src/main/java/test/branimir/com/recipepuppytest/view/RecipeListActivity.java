@@ -30,6 +30,7 @@ public class RecipeListActivity extends LifecycleActivity implements Observer<Re
     /** Recycler view*/
     private RecyclerView mRecyclerView;
 
+    /** Recipes adapter*/
     private RecipesAdapter mRecipesAdapter;
 
     @Override
